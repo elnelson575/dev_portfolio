@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  icon: "assets/images/python.png"
+  summary: "Experience writing scripts to clean and analyze data, and writing APIs & web apps with Flask and Bottle frameworks."
+  url: "https://kubernetes.io/"
+
+- name: SQL
+  icon: "assets/images/postgres.png"
+  summary: "Comfortable with a variety of SQL dialects and writing complex queries against local or remote databases."
+
+- name: Cloud Computing & AWS
+  icon: "assets/images/aws.jpeg"
+  summary: "Experience using a Hadoop cluster, AWS CodeDeploy, and AWS S3 storage"
+
+- name: JavaScript
+  icon: "assets/images/js.jpeg"
+  summary: "Classwork building a light Slack clone with responsive UI using promises and API endpoints in both single-page and multi-page forms."
+
+- name: HTML & CSS
+  icon: "assets/images/htmlcss.png"
+  summary: "Comfortable with custom styling, including media queries, flexbox, and grid layouts."
+
+- name: R
+  icon: "assets/images/RStudio.png"
+  summary: "Experience using tidyverse packages to clean, analyze, and visualize data. Extensive experience writing R Shiny applications and deploying them in a production environment."
+
+- name: PHP
+  icon: "assets/images/php.png"
+  summary: "Basic UI manipulation, used in a class build-a-simplified-Pinterest project."
+
+- name: Hadoop
+  icon: "assets/images/hadoop.png"
+  summary: "Experience writing map-reduce jobs in Java and in HiveQL."
+
+- name: Spark & Scala
+  icon: "assets/images/scala.png"
+  summary: "Have written Spark scripts in Scala to process messages from Kafka and add them to a Hive table stored in HDFS."
+
+- name: Java
+  icon: "assets/images/java.png"
+  summary: "General familiarity and experience writing programs to serialize data using Apache Thrift for ingestion into HDFS."
+
+- name: Docker
+  icon: "assets/images/docker.png"
+  summary: "Experience dockerizing legacy applications as well as working in a container during the development process."
+
+- name: Machine Learning
+  icon: "assets/images/sk.png"
+  summary: "Experience writing machine learning pipelines using a variety of packages, including Scikit-Learn"
+
+- name: Linux
+  icon: "assets/images/linux.png"
+  summary: "Comfortable with shell scripting for both data processing and deployment."
+
+- name: Git
+  icon: "assets/images/git.png"
+  summary: "Experienced with git-based development, both GitHub and GitLab. Have built GitHub wiki documentation and used issue-tracking tools."

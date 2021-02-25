@@ -1,0 +1,51 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: University of Chicago - MSCAPP Program (Computer Science and Public Policy)
+  url: "https://capp.uchicago.edu/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am a passionate software & data engineer devoted to doing projects that advance the public good. I pick up new tech stacks quickly and enjoy building things from scratch, but I also get a pecuiliar sort of enjoyment out of navigating legacy code. Before I transitioned into software engineering, I spent 4+ years in data science consulting, so I'm just as comfortable talking to non-technical clients and leadership as I am getting into the weeds with fellow developers. I love mentoring other developers and sharing knowlege."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "elizabethwnelson5@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/elnelson575"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/elizabeth-nelson-58937011a"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "@LizWNelson"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -1,0 +1,74 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: BallotReady
+    url: "https://www.ballotready.org/"
+    location: Chicago, IL
+    # company overview
+    overview: BallotReady is on a mission to make democracy work the way it should by helping voters across the U.S. exercise their right to vote and vote informed on every race and measure on their ballots. BallotReady provides personalized ballots and nonpartisan information to voters in all 50 states.
+  positions:
+  - designation: Data Fellow
+    start: June 2020
+    responsibilities:
+    - Cross-functional data fellow working to implement data engineering solutions to enable data collection on polling place, ballot measure, candidate, and candidate position data for all 50 states for the 2020 election, informing over 5 million voters.
+    - Responsible for building an uploading feature to allow UI-based database uploads of new elected position data
+    - Co-lead for user diversity analysis project utilizing clickstream and census data to determine probable demographics of user base
+    - Conducted accessibility analysis of primary tool capabilities using HTML- and accessibility-analysis tools
+    - Data liaison for extracting meaningful data insights for Twitter and LinkedIn marketing campaigns through SQL queries and analysis
+    - Ad-hoc data team technical support to measure distance between polling places and representative addresses, gather last-minute polling place changes through a web scraper,  identify data errors using regular expressions, and develop custom GoogleSheets functions
+
+- company:
+    name: Deloitte Consulting
+    url: "https://www2.deloitte.com/us/en/pages/public-sector/topics/federal-government.html"
+    location: Arlington, VA
+    overview: Lead developer for two client-facing web-based optimization tools built in R Shiny with dynamic user-input parameters feeding into a resource planning optimization
+  positions:
+  - designation: Lead Developer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Mentored and supervised 2-3 developers working on statistical analysis and application design tasks
+    - Co-facilitated two-day design session for six clients to generate ideas for future app features and gather user feedback
+    - Created and managed application development timelines, including planning Alpha/Beta/Production releases, and organizing semi-Agile style sprints
+    - Translated business goals and rules into optimization objectives and constraints in production model used to actively manage resource allocation
+    - Performed data cleaning, statistical analysis, data visualization, and user-interface design tasks in R and R Shiny
+  - designation: Team Lead for Risk Analysis
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Led team in restructuring core fault tree model to decrease the time necessary for scenario modeling and enabling the team to conduct future sensitivity analyses
+    - Authored questions for subject-matter expert intelligence elicitation
+    - Scoped model refresh timeline and worked with clients to prioritize team workload
+    - Managed development of briefings for senior agency executives
+    - Developed one and three-year plans for future development efforts
+  - designation: Additional roles and responsibilities
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Wrote Python web-scraper as part of a text processing pipeline
+    - Conducted network analysis on government agency partners, customers and competitors.
+    - Built custom ecosystem map visualization to inform customer segmentation for national security client
+    - Delivered and developed trainings for groups of 15-30 people on topics such as terrorist groups, tactics and targets, developing R Shiny applications, dockerizing R Shiny applications, and uses of simulation methods (ex. system dynamics modeling, agent-based simulation)
+
+- company:
+    name: Institute for European Russian, and Eurasian Studies, George Washington University
+    url: "https://ieres.elliott.gwu.edu/"
+    location: Washington, D.C.
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Research Assistant
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Collected and analyzed data from over 70,000 RT (“Russia Today”) videos on YouTube to examine RT messaging to different linguistic groups and co-wrote peer-reviewed journal article on analysis
+    - Presented research on RT’s strategy and influence via YouTube at PONARS Eurasia workshop “Rethinking Russian Media Strategy” (2017), National Endowment for Democracy (2017), American Political Science Association Annual Meeting (2016), and IERES Hybrid Warfare workshop (2015)
+    - Co-wrote numerous op-eds and policy papers on topics such as RT’s use of YouTube, Russia’s foreign media budget and infrastructure, and corruption in Ukraine
